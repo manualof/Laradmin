@@ -1,6 +1,6 @@
 @extends('layouts.errors')
 
-@section('title', 'Page Title')
+@section('title', '提示')
 
 @section('content')
     <div class="row">
